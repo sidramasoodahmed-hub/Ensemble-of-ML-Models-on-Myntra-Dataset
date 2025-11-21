@@ -10,7 +10,7 @@ The aim of this notebook is to classify products into their correct articleType 
 The workflow includes data cleaning, EDA, feature encoding, model training, and accuracy comparison.
 
 
-Methods
+**Methods**
 
 The notebook contains the following steps:
 
